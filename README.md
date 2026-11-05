@@ -58,10 +58,8 @@ The bot currently runs successfully on Windows.
 
 It may also be deployed on Linux or a compatible hosting environment with Python 3.11+.
 
-Aussie Server Hosts deployment is pending hosting-provider approval.
-
 ## Security
 
 Never commit the .env file or disclose the Discord bot token.
 
-The bot does not require access to DayZ admin credentials, RCON, game files or the Pterodactyl API.
+The bot does not require access to DayZ admin credentials, RCON, game files or the hosting API.
